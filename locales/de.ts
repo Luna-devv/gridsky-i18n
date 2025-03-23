@@ -370,7 +370,7 @@ export default defineI18nLocale(async locale => {
                 },
                 contribute: {
                     line1: "Wir bemühen uns, so viele Sprachen wie möglich zu unterstützen, aber im Moment sind nur einige wenige verfügbar.",
-                    line2: "Möchtest du helfen? Wir können zwei Monate Gridsky {ae} kostenlos anbieten, wenn du Gridsky in deine Sprache zu übersetzt. Mehr Infos auf Discord",
+                    line2: "Möchtest du helfen? Wir können dir zwei Monate Gridsky {ae} kostenlos anbieten, wenn du Gridsky in deine Sprache übersetzt. Mehr Infos auf Discord",
                 }
             },
             grid: {
